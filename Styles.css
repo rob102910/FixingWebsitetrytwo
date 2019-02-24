@@ -1,6 +1,4 @@
-h1 {
-  color: White;
-}
+
 
 body{
   background-image: url("gb2.png");
@@ -75,6 +73,9 @@ body{
   margin: 25px;
   border-image: url("gold.jpg") 30% round;
   border-image-repeat: round;
+  color: White;
+}
+h1 {
   color: White;
 }
 a:active{
