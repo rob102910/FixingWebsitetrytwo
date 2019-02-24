@@ -1,0 +1,105 @@
+h1 {
+  color: White;
+}
+
+body{
+  background-image: url("gb2.png");
+  background-size: 100%;
+  color: white;
+
+}
+.resize{
+  width:100px;
+  height:100px;
+}
+.header {
+    position: relative;
+    background-image: url("game-of-thrones-heads.jpg");
+    height: 300px;
+}
+.partners{
+
+}
+.person_info:first-of-type{
+  float:left;
+  color: White;
+}
+
+.person_image:first-of-type{
+  width: 100px;
+  height: 150px;
+  float:left;
+  top: 175px;
+}
+
+.person_info:nth-of-type(2){
+  float: right;
+  text-decoration-color: White;
+  color: White;
+}
+
+.nav{
+  position: relative;
+  top: 350px;
+  text-align: left;
+  color: White;
+
+}
+
+.day-box.PREP {
+  position: relative;
+  top: 175px;
+  border: 10px solid transparent;
+  padding: 15px;
+  margin: 25px;
+  border-image: url("gold.jpg") 30% round;
+  border-image-repeat: round;
+  color: White;
+}
+.day-box.CURRENT {
+  position: relative;
+  top: 175px;
+  border: 10px solid transparent;
+  padding: 15px;
+    margin: 25px;
+  border-image: url("gold.jpg") 30% round;
+  border-image-repeat: round;
+  color: White;
+}
+
+.day-box.COMPLETED {
+  position: relative;
+  top: 175px;
+  border: 10px solid transparent;
+  padding: 15px;
+  margin: 25px;
+  border-image: url("gold.jpg") 30% round;
+  border-image-repeat: round;
+  color: White;
+}
+a:active{
+  color:red;
+}
+a:visited {
+  color: darkred;
+}
+
+.day {
+
+}
+
+.reading-box {
+
+}
+
+.prep-box{
+
+}
+
+.assignment_link{
+
+}
+
+.lab-box {
+
+}
